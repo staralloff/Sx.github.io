@@ -23,7 +23,7 @@ github: staralloff
 
 # avatar and Favicon
 avatar: /images/avatar.jpg
-favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
+favicon: /images/favicon.ico
 
 # disqus config
 disqus:
