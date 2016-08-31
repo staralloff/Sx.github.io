@@ -2,11 +2,11 @@
 title: "Orion's Blog"
 email: orion19911011@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  "Shi Xin's Tech Blog"
+  "Orion's Blog"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://staralloff.cc" # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
-author: Shi Xin
+author: Orion
 twitter:
   username: staralloff
 
