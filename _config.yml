@@ -1,5 +1,5 @@
 # Site settings
-title: "Shi Xin's Blog"
+title: "Orion's Blog"
 email: orion19911011@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   "Shi Xin's Tech Blog"
@@ -22,8 +22,8 @@ github: staralloff
 # dribbble: username
 
 # avatar and Favicon
-avatar: /images/avatar.jpg
-favicon: /images/favicon.ico
+avatar: /assets/img/avatar.jpg
+favicon: /assets/img/favicon.ico
 
 # disqus config
 disqus:
