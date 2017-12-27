@@ -1,0 +1,26 @@
+---
+layout: post
+title: IndentationError: expected an indented block
+category: Tech
+tags: Error
+keywords: python,block
+description: 好久不见，甚是想念
+---
+
+```sh
+ if xxxxxx：
+
+（空格）xxxxx
+
+或者
+
+def xxxxxx：
+
+（空格）xxxxx
+
+还有
+
+for xxxxxx：
+
+（空格）xxxxx
+```
