@@ -3,8 +3,7 @@ layout: post
 title: IndentationError: expected an indented block
 category: 技术
 tags: Tech
-keywords: python,block
-description: 好久不见，甚是想念
+description: 代码规范
 ---
 
 ```sh
