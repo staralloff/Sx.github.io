@@ -36,4 +36,4 @@ Type "help", "copyright", "credits" or "license" for more information.
 (dir of django project) $ python manage.py runserver
 ```
 
-![Host](http://img0.ph.126.net/5XM1laMB6emTd68ys62-gQ==/6597358938217005123.png)
+![Host](http://www.clantu.com/#photos/17495)
